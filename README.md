@@ -5,3 +5,8 @@ Simple bot made in ruby ​​used from [`discordrb`](https://github.com/discord
 token: YOUR_TOKEN #https://discord.com/developers/applications
 mongo: YOUR_MONGO_URI #https://www.mongodb.com
 ```
+# Start
+```bash
+bundle install
+bundle exec ruby main.rb 
+```
